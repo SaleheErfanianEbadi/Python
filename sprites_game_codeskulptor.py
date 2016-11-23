@@ -1,5 +1,7 @@
 # implementation of Spaceship - program template for RiceRocks
 # Made by: Salehe Erfanian Ebadi
+# Contact: s.erfanianebadi@qmul.ac.uk
+
 import simplegui
 import math
 import random
